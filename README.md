@@ -17,7 +17,7 @@
 | Functionality  | Hotkeys |
 | ------------- | ------------- |
 | Toogle Helicam | E |
-| Toogle Vision | G |
+| Toogle Vision | Right click |
 | Rappel | X |
 | Spotlight | G |
 | Lockon vehicle | Spacebar |
